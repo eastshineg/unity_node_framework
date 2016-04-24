@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/node/Node_Editor/Framework/Node.cs">
+    <Files>
+      <File FileName="Assets/node/Node_Editor/RuntimeNodeEditor.cs" Line="11" Column="13" />
+      <File FileName="Assets/node/Node_Editor/Nodes/Example/ExampleNode.cs" Line="22" Column="3" />
+      <File FileName="Assets/node/Node_Editor/Nodes/Example/AllAroundNode.cs" Line="23" Column="18" />
+      <File FileName="Assets/node/Node_Editor/Framework/Node.cs" Line="406" Column="3" />
+      <File FileName="Assets/node/Node_Editor/Framework/NodeInput.cs" Line="22" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
